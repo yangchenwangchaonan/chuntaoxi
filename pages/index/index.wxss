@@ -280,7 +280,7 @@ page{
 }
 .product_title_list view.active{
   /* border-bottom: 6rpx solid #B461F8; */
-  box-shadow: 0 38rpx 0 -28rpx #B461F8;
+  box-shadow: 0 38rpx 0 -28rpx #e88784;
   font-family:SourceHanSansCN-Medium;
   font-size:42rpx;
   font-weight:500;

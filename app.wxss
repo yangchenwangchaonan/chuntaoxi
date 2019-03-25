@@ -164,3 +164,11 @@ color:#FFFFFF;
 background-color:#d9002f;
 }
 
+/*整体色调*/
+.app_overallTone_color{
+  color: #e88784 !important;
+}
+.app_overallTone_bgColor{
+  background-color: #e88784 !important;
+}
+

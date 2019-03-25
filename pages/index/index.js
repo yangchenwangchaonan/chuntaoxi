@@ -6,9 +6,9 @@ Page({
    */
   data: {
     imgUrls: [
+      '/images/banner1.png',
       '/images/banner.png',
-      '/images/banner.png',
-      '/images/banner.png'
+      '/images/banner1.png'
     ],
     indicatorDots: true,
     autoplay: true,

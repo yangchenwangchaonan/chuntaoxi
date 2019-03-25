@@ -21,14 +21,14 @@
     "pages/groupbuy/groupbuypay"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#A04CFF",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#ffffff",
     "navigationBarTitleText": "春桃兮",
-    "navigationBarTextStyle": "white"
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
     "color": "#7F8699",
-    "selectedColor": "#A04CFF",
+    "selectedColor": "#e88784",
     "backgroundColor": "#ffffff",
     "borderStyle": "black",
     "list": [
